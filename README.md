@@ -11,9 +11,9 @@
 PowerBI Dashboard : [https://app.powerbi.com/links/b8Sbw3ULWL?ctid=6d2f8f03-c411-4299-9bbd-870e5b287ccd&pbi_source=linkShare&bookmarkGuid=ee6205bc-77f3-4fe6-ac3d-6468234f2b9f](https://app.powerbi.com/links/b8Sbw3ULWL?ctid=6d2f8f03-c411-4299-9bbd-870e5b287ccd&pbi_source=linkShare&bookmarkGuid=ee6205bc-77f3-4fe6-ac3d-6468234f2b9f)
 
 ## Screenshots
-![Screenshot](images/powerbi1.PNG)
-![Screenshot](images/powerbi2.PNG)
-![Screenshot](images/powerbi.gif)
+![Screenshot](images/powerbi1.png)
+![Screenshot](images/powerbi2.png)
+![Screenshot](images/powebi.gif)
 
 ## Problem Statement
 In this project we will analyze the performance of crypto currencies and will forecast next 1 year with the help of past performance. Also we need to build interactive dashboard with realtime data.
